@@ -1,0 +1,10 @@
+C:\Users\Lucas\Desktop\pasta_a\jean\dmdFontCreator\bin\Debug\dmdFontCreator.exe.config
+C:\Users\Lucas\Desktop\pasta_a\jean\dmdFontCreator\bin\Debug\dmdFontCreator.exe
+C:\Users\Lucas\Desktop\pasta_a\jean\dmdFontCreator\bin\Debug\dmdFontCreator.pdb
+C:\Users\Lucas\Desktop\pasta_a\jean\dmdFontCreator\obj\Debug\dmdFontCreator.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\pasta_a\jean\dmdFontCreator\obj\Debug\dmdFontCreator.Form1.resources
+C:\Users\Lucas\Desktop\pasta_a\jean\dmdFontCreator\obj\Debug\dmdFontCreator.Properties.Resources.resources
+C:\Users\Lucas\Desktop\pasta_a\jean\dmdFontCreator\obj\Debug\dmdFontCreator.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\pasta_a\jean\dmdFontCreator\obj\Debug\dmdFontCreator.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\pasta_a\jean\dmdFontCreator\obj\Debug\dmdFontCreator.exe
+C:\Users\Lucas\Desktop\pasta_a\jean\dmdFontCreator\obj\Debug\dmdFontCreator.pdb
